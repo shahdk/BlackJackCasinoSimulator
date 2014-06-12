@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csse221-201210-simulation22/!svn/ver/124/Simulation/src/simulation
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csse221-201210-simulation22/!svn/ver/107/Simulation/src/simulation/Card.java
+END
+TableAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/csse221-201210-simulation22/!svn/ver/107/Simulation/src/simulation/TableAbstract.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csse221-201210-simulation22/!svn/ver/124/Simulation/src/simulation/Table.java
+END
+StartUpScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/csse221-201210-simulation22/!svn/ver/122/Simulation/src/simulation/StartUpScreen.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csse221-201210-simulation22/!svn/ver/118/Simulation/src/simulation/Main.java
+END
+SongRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csse221-201210-simulation22/!svn/ver/118/Simulation/src/simulation/SongRemove.java
+END
+DeckChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csse221-201210-simulation22/!svn/ver/107/Simulation/src/simulation/DeckChanger.java
+END
+CasinoFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csse221-201210-simulation22/!svn/ver/124/Simulation/src/simulation/CasinoFrame.java
+END
+TablePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csse221-201210-simulation22/!svn/ver/120/Simulation/src/simulation/TablePanel.java
+END
+Casino.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csse221-201210-simulation22/!svn/ver/118/Simulation/src/simulation/Casino.java
+END
+PlayerAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/csse221-201210-simulation22/!svn/ver/111/Simulation/src/simulation/PlayerAbstract.java
+END
+ManagerOptionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/csse221-201210-simulation22/!svn/ver/121/Simulation/src/simulation/ManagerOptionsPanel.java
+END
+PlayerLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csse221-201210-simulation22/!svn/ver/124/Simulation/src/simulation/PlayerLabel.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csse221-201210-simulation22/!svn/ver/118/Simulation/src/simulation/Player.java
+END

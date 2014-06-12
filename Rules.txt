@@ -1,0 +1,30 @@
+The objective of blackjack is to accumulate cards with point totals as close to 21 
+without going over 21. Face cards (Jacks,Queens and Kings) are worth 10 points. Aces are 
+worth 1 or 11, whichever is preferable. Other cards are represented by their number.
+
+1. To win the player needs to beat the dealer without busting.
+
+2. The player busts when the player’s cards total to more than 21 and the player looses automatically.
+
+3. Before receiving any cards players must place a wager.
+
+4. Each player in turn either stays or takes more cards to try and get closer to 21 without busting.
+
+5. Players who do not bust wait for the dealer's turn. 
+
+6. When all the players are done, the dealer turns up the down card.
+
+7. By rule, on counts of 17 or higher the dealer must stay; on counts of 16 or lower the dealer must draw.
+
+8. If the player makes a total of 21 with the first two cards (a 10 or a face and an Ace), the player 
+   wins automatically. 
+   This is called 'Blackjack'.
+	
+9. If the player has Blackjack, the player will win one and one-half times the player’s bet unless the 
+   dealer also has Blackjack, in which case it is a Push or a Tie (or a Stand-off) and the player 
+   gets his bet back.
+	
+10. The remaining players with a higher count than the dealer win an amount equal to their bet. 
+
+11. Players with a lower count than the dealer lose their bet. If the dealer busts, all the remaining players win.
+

@@ -1,0 +1,14 @@
+Problem Statement
+
+Design a Blackjack simulation with multiple tables, each it's own thread, where variables, such as the probabilities of the
+deck are able to be manipulated. A Map would be used to store players and the table they are playing at. The User will act
+as a "Manager" of the Simulation/Casino.
+
+Feature List:
+User/ManagerOptions
+Weighting the Deck
+Kicking Players Out
+Loaning Money
+Move Dealers
+Be EVIL
+Change Table Color

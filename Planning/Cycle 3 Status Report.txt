@@ -1,0 +1,22 @@
+All User Stories were completed, include a few extra ones.
+
+The User will be able to kill a player. Estimated Time: 1h
+Total time: 1.5h
+
+The User will be able to loan a player money. Estimated Time: 30 min.
+Total time: 1h
+
+The User will be able to see the name of a player, their Money, and their debt.
+Estimated time: 1h30m.
+Total time: 2h
+
+Added to Cycle 3:
+
+Basic Player AI: 1h.
+
+Display Probability of Drawing 21 on next draw: 30m.
+User can swap player among tables: 1h.
+
+User can add a new player: 1h.
+
+Total time: 8h.

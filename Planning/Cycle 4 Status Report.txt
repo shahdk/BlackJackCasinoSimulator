@@ -1,0 +1,17 @@
+Program fully finished
+
+User will be able to change the Evil-Meter: Estimated Time: 2h.
+Total time: 1h
+
+User will have full functionality of the rest of the Casino features.
+	-Proper Betting
+	-Better Player AI
+	-Card Values
+Estimated Time: 1.5h
+Total Time: 4h
+
+Added Features:
+Popup Start Screen and Popup Instruction Manual:
+Total Time: 45m.
+
+Total Time: 5.75h

@@ -1,0 +1,7 @@
+The user will see a game of blackjack being played, with one second intervals between each action. Estimated time: 3h.
+5h total
+
+The user will be able to change the amount of cards in the deck. Estimated time: 30 minutes.
+Total time: 1h. 
+
+The user will be able to select a player, see their name, and move them to a different table. Estimated time: 30 minutes.

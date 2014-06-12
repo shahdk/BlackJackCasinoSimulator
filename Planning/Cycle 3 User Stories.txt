@@ -1,0 +1,9 @@
+The User will be able to kill a player. Estimated Time: 1h
+Total time: 1.5h
+
+The User will be able to loan a player money. Estimated Time: 30 min.
+
+The User will be able to see the name of a player, their Money, and their debt.
+Estimated time: 1h30m.
+
+Total time: 

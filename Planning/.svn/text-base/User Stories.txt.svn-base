@@ -1,0 +1,25 @@
+When the user clicks the ADD button in the Manager Options panel, the user will be able to add a player to the first empty position on the table clicked by the user.
+
+When the user clicks the SWAP button in the Manager Options panel, the user will be able to swap the two players the clicked by the user.
+
+When the user clicks the KILL AND LOOT button in the Manager Options Panel, the user will be able to remove the player clicked by the user and loot all the money of the player.
+
+When the user clicks the DISCO ON/OFF button in the Manager Options Panel, the user will be able to toggle the disco lights on/off.
+
+When the user clicks the PLAY/PAUSE button in the Manager Options Panel, the user will be able to pause/play the current song.
+
+When the user clicks the CHANGE SONG button in the Manager Options Panel, the user will be able to change between the two songs provided in the simulation.
+
+When the user clicks on the player name label, the user will see a pop-up window displaying the current cash of the player, the player's debt, and the player's total card value.
+
+When the pop-up window appears asking for the user to loan money, the user will be able to loan money to player by clicking yes, or decline by clicking no.\
+
+When the start-up screen appears, if the user clicks the 'x' exit button, the simulation will close.
+
+When the start-up screen appears, if the use clicks the START THE SIMULATION button, it will start the simulation.
+
+When the user clicks the Change Deck button, a pop-up window will appear displaying JSpinners for each type of card in the deck, and the user will be able to change the number of cards, for each type, in the deck.However, the user will not be allowed to have a deck with total cards <16.
+
+When the user changes the slider values of the Evil-o-meter, it will set the evilness of the dealer to the value set by the user.
+
+When the user clicks on the blackjack picture of the start-up screen, it displays the rules of BlackJack.

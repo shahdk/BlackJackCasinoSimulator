@@ -1,0 +1,7 @@
+User will be able to change the Evil-Meter: Estimated Time: 2h.
+
+User will have full functionality of the rest of the casino features.
+	-Proper Betting
+	-Better Player AI
+	-Card Values
+Estimated Time: 1.5h
